@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Jednostavna ikona: dvije strelice (download/upload) -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,34 L42,66 L34,66 L46,80 L58,66 L50,66 L50,34 Z" />
+    <path
+        android:fillColor="#FFB38A"
+        android:pathData="M66,74 L66,42 L74,42 L62,28 L50,42 L58,42 L58,74 Z" />
+</vector>

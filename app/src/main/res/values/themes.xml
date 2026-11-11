@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.UdmMonitor" parent="android:Theme.Material.NoActionBar" />
+</resources>

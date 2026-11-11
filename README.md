@@ -31,7 +31,7 @@ Lozinke se spremaju šifrirano (Android Keystore). HTTPS certifikat i SSH ključ
 
 - **Android Studio**: otvori mapu, pričekaj Gradle sync, Run.
 - **Komandna linija**: `./gradlew assembleDebug` → `app/build/outputs/apk/debug/app-debug.apk`
-- **GitHub**: pushaj u repo; workflow `.github/workflows/build.yml` izgradi APK i stavi ga pod *Actions → Artifacts*.
+- **GitHub**: svaki push na `main` izgradi APK i objavi ga na *Releases* stranici repoa kao `latest`.
 
 Zahtjevi: JDK 17, Android SDK 35. minSdk 26 (Android 8).
 
